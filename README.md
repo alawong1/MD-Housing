@@ -17,3 +17,6 @@ The Jupyter Notebook on the ML/DL project.
 
 house_selling.py:
 A single Python script on the MD House Predicting.ipynb file without in Notebook snippets.
+
+Jupyter Notebook file last modified on January 30. The model trains on houses mostly in the Bowie around. 
+Future plans include adding other areas around Maryland, one future plan is the houses around the Chevy Chase/DC area.
